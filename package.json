@@ -1,0 +1,23 @@
+{
+  "name": "bustraking",
+  "version": "0.1.0",
+  "description": "bus traking live on map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johelhu/bustraking.git"
+  },
+  "keywords": [
+    "gps",
+    "track-on-map"
+  ],
+  "author": "Johel Hidalgo U.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johelhu/bustraking/issues"
+  },
+  "homepage": "https://github.com/johelhu/bustraking#readme"
+}
